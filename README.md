@@ -2,7 +2,7 @@
 
 ## Live Heroku Web Page: https://morning-peak-91124.herokuapp.com/
 
-## Application Live Page: ![Employee Directory]( 
+## Application Live Page: ![Employee Directory](https://github.com/Ysdra/Employee_Directory/blob/main/Employee%20Directory.PNG)
 
 
 ## App Description:
